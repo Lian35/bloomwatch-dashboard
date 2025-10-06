@@ -1,41 +1,40 @@
-# 👋 ¡Hola! Soy Lian35
+# 👋 Hello! I'm Lian35
 
-### 🌎 Geoespacial | Ciencia de Datos | Desarrollo Web
+### 🌎 Geospatial | Data Science | Web Development
 
-Soy un desarrollador de **<Tu País/Región>** apasionado por la **Observación de la Tierra** y la creación de soluciones basadas en datos para problemas ambientales y agrícolas.  
-Mi enfoque actual es la **Fenología Global** y los sistemas de alerta temprana.
-
----
-
-### 🚀 Proyectos Destacados
-
-#### 🌸 BloomWatch - Global Phenology Dashboard
-> Un dashboard en **Streamlit** para el monitoreo en tiempo casi real de la salud de la vegetación (NDVI/EVI) utilizando datos satelitales (**NASA EO**). Detecta anomalías térmicas y estrés hídrico.  
-> 🔗 [Repositorio de BloomWatch](https://github.com/Lian35/bloomwatch)
-
-#### 🔹 Otro Proyecto 1
-> Breve descripción de 1-2 líneas.  
-> 🔗 [Link al proyecto](#)
+I am a developer from **<Your Country/Region>** passionate about **Earth Observation** and creating data-driven solutions for environmental and agricultural challenges.  
+My current focus is **Global Phenology** and early warning systems.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🚀 Featured Projects
 
-| Categoría | Herramientas (Lenguajes) |
+#### 🌸 BloomWatch – Global Phenology Dashboard
+> A **Streamlit** dashboard for near real-time monitoring of vegetation health (NDVI/EVI) using satellite data (**NASA EO**). It detects thermal anomalies and water stress to support better agricultural and conservation decisions.  
+> 🔗 [View BloomWatch Repository](https://github.com/Lian35/bloomwatch)
+
+#### 🔹 Other Project 1
+> Brief description (1-2 lines).  
+> 🔗 [Project Link](#)
+
+---
+
+### 🛠️ Technologies & Tools
+
+| Category | Tools (Languages) |
 | :--- | :--- |
-| **Análisis Geoespacial** | Python (xarray, rasterio), GDAL, NetCDF |
-| **Lenguajes** | Python, HTML, CSS, JavaScript (Básico) |
+| **Geospatial Analysis** | Python (xarray, rasterio), GDAL, NetCDF |
+| **Languages** | Python, HTML, CSS, JavaScript (Basic) |
 | **Frameworks** | Streamlit, Folium, Matplotlib |
-| **Bases de Datos** | SQL, PostGIS |
+| **Databases** | SQL, PostGIS |
 
 ---
 
-### 📫 Conéctate Conmigo
+### 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fg664714@gmail.com)  
 
-
 ---
 
-### 📊 GitHub Stats (Opcional)
+### 📊 GitHub Stats (Optional)
 ![Elian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lian35&show_icons=true&theme=dark)
