@@ -7,17 +7,6 @@ My current focus is **Global Phenology** and early warning systems.
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🌸 BloomWatch – Global Phenology Dashboard
-> A **Streamlit** dashboard for near real-time monitoring of vegetation health (NDVI/EVI) using satellite data (**NASA EO**). It detects thermal anomalies and water stress to support better agricultural and conservation decisions.  
-> 🔗 [View BloomWatch Repository](https://github.com/Lian35/bloomwatch)
-
-#### 🔹 Other Project 1
-> Brief description (1-2 lines).  
-> 🔗 [Project Link](#)
-
----
 
 ### 🛠️ Technologies & Tools
 
